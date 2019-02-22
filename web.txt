@@ -1,0 +1,1176 @@
+<!DOCTYPE html>
+<html lang="zxx"><script src="https://s0.2mdn.net/instream/video/client.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" charset="utf-8" id="zm-extension" src="chrome-extension://fdcgdnkidjaadafnichfpabhfomcebme/scripts/webrtc-patch.js" async=""></script><head><style class="vjs-styles-defaults">
+      .vdo-js {
+        width: 300px;
+        height: 150px;
+      }
+
+      .vjs-fluid {
+        padding-top: 56.25%
+      }
+    </style><style class="vjs-styles-dimensions">
+      .vdo_ai_9418181-dimensions {
+        width: 419px;
+        height: 236px;
+      }
+
+      .vdo_ai_9418181-dimensions.vjs-fluid {
+        padding-top: 56.25%;
+      }
+    </style>
+    <title>Conclave Corporate Bootstrap Responsive Template | Home :: W3layouts</title>
+    <!-- Meta tag Keywords -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <meta name="keywords" content="Conclave Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design">
+    <script>
+        addEventListener("load", function() {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+
+    </script>
+    <!-- //Meta tag Keywords -->
+
+    <!-- Custom-Files -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <!-- Bootstrap-Core-CSS -->
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+    <!-- Style-CSS -->
+    <!-- font-awesome-icons -->
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <!-- //font-awesome-icons -->
+    <!-- /Fonts -->
+    <link href="//fonts.googleapis.com/css?family=Comfortaa:300,400,700" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900" rel="stylesheet">
+    <!-- //Fonts -->
+
+<script id="_bsa_srv-CKYI627U_0" type="text/javascript" src="https://srv.buysellads.com/ads/CKYI627U.json?callback=_bsa_go&amp;segment=placement:w3layoutscom"></script><script id="_bsa_srv-CKYI653J_1" type="text/javascript" src="https://srv.buysellads.com/ads/CKYI653J.json?callback=_bsa_go&amp;segment=placement:w3layoutscom"></script><script defer="" async="" src="https://vdo.ai/core/w3layouts/vdo.ai.js"></script><link id="_vdo_ads_css_5654_" rel="stylesheet" href="https://vdo.ai/core/dependencies_bs/vdo.min.css"><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-113932176-6"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=p.w3layouts.com" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=p.w3layouts.com"></script></head>
+
+<body style="">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script><script src="//m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
+<script>
+(function(){
+	if(typeof _bsa !== 'undefined' && _bsa) {
+  		// format, zoneKey, segment:value, options
+  		_bsa.init('flexbar', 'CKYI627U', 'placement:w3layoutscom');
+  	}
+})();
+</script>
+<script>
+(function(){
+if(typeof _bsa !== 'undefined' && _bsa) {
+	// format, zoneKey, segment:value, options
+	_bsa.init('fancybar', 'CKYDL2JN', 'placement:demo');
+}
+})();
+</script>
+<script>
+(function(){
+	if(typeof _bsa !== 'undefined' && _bsa) {
+  		// format, zoneKey, segment:value, options
+  		_bsa.init('stickybox', 'CKYI653J', 'placement:w3layoutscom');
+  	}
+})();
+</script>
+<script>
+	(function(v,d,o,ai){ai=d.createElement("script");ai.defer=true;ai.async=true;ai.src=v.location.protocol+o;d.head.appendChild(ai);})(window, document, "//vdo.ai/core/w3layouts/vdo.ai.js");
+	</script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-125810435-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-125810435-1');
+</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-30027142-1', 'w3layouts.com');
+  ga('send', 'pageview');
+</script>
+
+    <!-- mian-content -->
+    <header class="index-banner" id="home">
+        <!-- nav -->
+        <nav class="main-header d-flex">
+            <div id="brand">
+                <div id="word-mark">
+                    <h1>
+                        <a href="index.html"><i class="fa fa-bolt" aria-hidden="true"></i></a>
+                    </h1>
+                </div>
+            </div>
+            <div id="menu">
+                <div id="menu-toggle">
+                    <div id="menu-icon">
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                    </div>
+                </div>
+                <ul class="text-left nav-honey" style="top: 160px;">
+                    <li>
+                        <a href="index.html" class="active ">Home</a>
+                    </li>
+                    <li>
+                        <a href="about.html">About</a>
+                    </li>
+
+                    <li class="nav-item dropdown">
+
+                        <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+										Dropdown
+									</a>
+
+                        <div class="dropdown-menu text-center" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item scroll" href="#speakers">Speakers</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item scroll" href="#sponsors">Sponsors</a>
+                        </div>
+
+                    </li>
+
+                    <li>
+                        <a href="blog.html">News &amp; Events</a>
+                    </li>
+                    <li>
+                        <a href="contact.html">Contact</a>
+                    </li>
+                    <li class="login">
+                        <button type="button" class="btn login-btn text-uppercase " data-toggle="modal" data-target="#exampleModalCenter">
+                          Login
+                        </button>
+                    </li>
+                </ul>
+            </div>
+            <div class="clearfix"></div>
+        </nav>
+        <!-- //nav -->
+        <!-- banner -->
+        <!-- banner-text -->
+        <div class="slider">
+            <div class="callbacks_container">
+                <ul class="rslides callbacks callbacks1" id="slider4">
+                    <li id="callbacks1_s0" class="" style="display: block; float: none; position: absolute; opacity: 0; z-index: 1; transition: opacity 1000ms ease-in-out 0s;">
+                        <div class="banner-top">
+                            <div class="banner-info-w3layouts text-left">
+                                <h3>The web design conference
+                                </h3>
+                                <p>2 Days . 18 Talks . Awesome Speakers</p>
+
+                            </div>
+                        </div>
+                    </li>
+                    <li id="callbacks1_s1" style="display: block; float: left; position: relative; opacity: 1; z-index: 2; transition: opacity 1000ms ease-in-out 0s;" class="callbacks1_on">
+                        <div class="banner-top1">
+                            <div class="banner-info-w3layouts text-left">
+                                <h3>Strategies for Success
+                                </h3>
+                                <p>2 Days . 18 Talks . Awesome Speakers</p>
+                            </div>
+                        </div>
+                    </li>
+                    <li id="callbacks1_s2" style="display: block; float: none; position: absolute; opacity: 0; z-index: 1; transition: opacity 1000ms ease-in-out 0s;" class="">
+                        <div class="banner-top2">
+                            <div class="banner-info-w3layouts text-left">
+                                <h3>The web design conference
+                                </h3>
+                                <p>2 Days . 18 Talks . Awesome Speakers</p>
+
+
+                            </div>
+                        </div>
+                    </li>
+                    <li id="callbacks1_s3" style="display: block; float: none; position: absolute; opacity: 0; z-index: 1; transition: opacity 1000ms ease-in-out 0s;" class="">
+                        <div class="banner-top3">
+                            <div class="banner-info-w3layouts text-left">
+                                <h3>Strategies for Success</h3>
+                                <p>2 Days . 18 Talks . Awesome Speakers</p>
+
+                            </div>
+                        </div>
+                    </li>
+
+                </ul><a href="#" class="callbacks_nav callbacks1_nav prev">Previous</a><a href="#" class="callbacks_nav callbacks1_nav next">Next</a>
+            </div>
+            <div class="clearfix"> </div>
+
+
+            <!-- Social Icons -->
+            <div class="social_media">
+                <ul>
+                    <li>
+                        <a href="#" class="facebook">
+                        <i class="fab fa-facebook-f" aria-hidden="true"></i>
+                    </a>
+                    </li>
+                    <li>
+                        <a href="#" class="twitter">
+                        <i class="fab fa-twitter" aria-hidden="true"></i>
+                    </a>
+                    </li>
+                    <li>
+                        <a href="#" class="dribbble">
+                        <i class="fab fa-dribbble" aria-hidden="true"></i>
+                    </a>
+                    </li>
+                    <li>
+                        <a href="#" class="behance">
+                        <i class="fab fa-behance" aria-hidden="true"></i>
+                    </a>
+                    </li>
+                </ul>
+            </div>
+            <!-- //Social Icons -->
+        </div>
+        <!--//Slider-->
+        <!--// banner-inner -->
+    </header>
+    <!-- //header -->
+    <!--// banner-slider -->
+    <!-- banner-bottom-w3ls -->
+    <section class="banner-bottom-w3ls py-lg-5 py-4">
+        <div class="container">
+            <div class="inner-sec-w3ls py-lg-5 py-4">
+                <!---728x90--->
+
+                <h3 class="tittle-w3 text-center"><span class="sub-tittle">Digital thinkers conf.</span> Schedule</h3>
+                <!---728x90--->
+
+                <div class="row mt-lg-5 mt-4">
+                    <div id="timeline">
+                        <div class="row timeline-movement timeline-movement-top">
+                            <div class="timeline-badge timeline-future-movement">
+                                <p>2018</p>
+                            </div>
+                        </div>
+                        <div class="row timeline-movement">
+                            <div class="timeline-badge center-left">
+
+                            </div>
+                            <div class="col-sm-6  timeline-item">
+                                <div class="row">
+                                    <div class="col-sm-11">
+                                        <div class="timeline-panel credits  anim animate fadeInLeft animated">
+                                            <ul class="timeline-panel-ul">
+                                                <div class="lefting-wrap">
+                                                    <li class="img-wraping"><a href="#"><img src="images/s1.jpg" class="" alt="user-image"></a></li>
+                                                </div>
+                                                <div class="righting-wrap">
+                                                    <li><a href="#" class="importo">7:00 AM TO 9:00 AM</a></li>
+                                                    <li><span class="causale" style="color:#000; font-weight: 600;">Recreating Stranger Things' intro with parallax scroll </span> </li>
+
+                                                    <li>
+                                                        <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 13/01/2018, 13:05"</small></p>
+                                                    </li>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                            </ul>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row timeline-movement">
+                            <div class="timeline-badge center-right">
+
+                            </div>
+                            <div class="offset-sm-6 col-sm-6  timeline-item">
+                                <div class="row">
+                                    <div class="offset-sm-1 col-sm-11">
+                                        <div class="timeline-panel debits  anim animate  fadeInRight">
+                                            <ul class="timeline-panel-ul">
+                                                <div class="lefting-wrap">
+                                                    <li class="img-wraping"><a href="#"><img src="images/s2.jpg" class="" alt="user-image"></a></li>
+                                                </div>
+                                                <div class="righting-wrap">
+                                                    <li><a href="#" class="importo">9:00 AM TO 10:00 AM</a></li>
+                                                    <li><span class="causale" style="color:#000; font-weight: 600;">Recreating Stranger Things' intro with parallax scroll </span> </li>
+
+                                                    <li>
+                                                        <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 30/8/2018, 13:05"</small></p>
+                                                    </li>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                            </ul>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row timeline-movement">
+                            <div class="timeline-badge center-left">
+
+                            </div>
+                            <div class="col-sm-6  timeline-item">
+                                <div class="row">
+                                    <div class="col-sm-11">
+                                        <div class="timeline-panel credits  anim animate  fadeInLeft">
+                                            <ul class="timeline-panel-ul">
+                                                <div class="lefting-wrap">
+                                                    <li class="img-wraping"><a href="#"><img src="images/s2.jpg" class="" alt="user-image"></a></li>
+                                                </div>
+                                                <div class="righting-wrap">
+                                                    <li><a href="#" class="importo">10:00 AM TO 11:00 AM</a></li>
+                                                    <li><span class="causale" style="color:#000; font-weight: 600;">Recreating Stranger Things' intro with parallax scroll </span> </li>
+
+                                                    <li>
+                                                        <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 13/09/2018, 13:05"</small></p>
+                                                    </li>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                            </ul>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row timeline-movement timeline-movement-top">
+                            <div class="timeline-badge timeline-future-movement">
+                                <p>2019</p>
+                            </div>
+                        </div>
+                        <div class="row timeline-movement">
+                            <div class="timeline-badge center-right">
+                            </div>
+                            <div class="offset-sm-6 col-sm-6  timeline-item">
+                                <div class="row">
+                                    <div class="offset-sm-1 col-sm-11">
+                                        <div class="timeline-panel debits  anim animate  fadeInRight">
+                                            <ul class="timeline-panel-ul">
+                                                <div class="lefting-wrap">
+                                                    <li class="img-wraping"><a href="#"><img src="images/s3.jpg" class="" alt="user-image"></a></li>
+                                                </div>
+                                                <div class="righting-wrap">
+                                                    <li><a href="#" class="importo">10:00 AM TO 11:00 AM</a></li>
+                                                    <li><span class="causale" style="color:#000; font-weight: 600;">Recreating Stranger Things' intro with parallax scroll </span> </li>
+
+                                                    <li>
+                                                        <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 29/09/2018, 13:05"</small></p>
+                                                    </li>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                            </ul>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row timeline-movement">
+                            <div class="timeline-badge center-left">
+
+                            </div>
+                            <div class="col-sm-6  timeline-item">
+                                <div class="row">
+                                    <div class="col-sm-11">
+                                        <div class="timeline-panel credits  anim animate  fadeInLeft">
+                                            <ul class="timeline-panel-ul">
+                                                <div class="lefting-wrap">
+                                                    <li class="img-wraping"><a href="#"><img src="images/s4.jpg" class="" alt="user-image"></a></li>
+                                                </div>
+                                                <div class="righting-wrap">
+                                                    <li><a href="#" class="importo">11:00 AM TO 12:00 AM</a></li>
+                                                    <li><span class="causale" style="color:#000; font-weight: 600;">Recreating Stranger Things' intro with parallax scroll </span> </li>
+
+                                                    <li>
+                                                        <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 30/09/2018, 13:05"</small></p>
+                                                    </li>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- //banner-bottom-w3ls -->
+    <!--/counter-->
+    <section class="stats py-lg-5 py-4">
+        <div class="container">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col">
+                        <div class="counter">
+                            <h3 class="timer count-title count-number" data-to="100" data-speed="1500">100</h3>
+                            <p class="count-text ">Our Customer</p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="counter">
+                            <h3 class="timer count-title count-number" data-to="1700" data-speed="1500">1,700</h3>
+                            <p class="count-text ">Happy Clients</p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="counter">
+                            <h3 class="timer count-title count-number" data-to="11900" data-speed="1500">11,900</h3>
+                            <p class="count-text ">Project Complete</p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="counter">
+                            <h3 class="timer count-title count-number" data-to="157" data-speed="1500">157</h3>
+                            <p class="count-text ">Coffee With Clients</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <!--//counter-->
+    <!--/speakers -->
+    <section class="banner-bottom-w3ls py-lg-5 py-4" id="speakers">
+        <div class="container">
+            <div class="inner-sec-w3ls py-lg-5 py-4 speak">
+                <!---728x90--->
+
+                <h3 class="tittle-w3 text-center"><span class="sub-tittle">Amazing People.</span> Speakers</h3>
+                <div class="row mt-lg-5 mt-4">
+                    <div class="col-md-6 team-img">
+                        <img src="images/t1.jpg" class="img-fluid" alt="user-image">
+                    </div>
+                    <div class="col-md-6 team-info">
+                        <h3><span class="sub-tittle">Speaker</span> Daniel Doe</h3>
+                        <h4 class="my-3">VIVAMUS ID TEMPOR FELIS. CRAS SAGITTIS MI SIT AMET</h4>
+                        <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                        <ul class="team-icons mt-md-4 mt-3">
+                            <li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
+                            <li><a href="#"><span class="fa fa-twitter"></span></a></li>
+                            <li><a href="#"><span class="fa fa-linkedin-square"></span></a></li>
+                            <li><a href="#"><span class="fa fa-instagram"></span></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row mt-lg-5 mt-4">
+                    <div class="col-md-6 team-info">
+                        <h3><span class="sub-tittle">Speaker</span> Leia Organa</h3>
+                        <h4 class="my-3">VIVAMUS ID TEMPOR FELIS. CRAS SAGITTIS MI SIT AMET</h4>
+                        <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                        <ul class="team-icons mt-md-4 mt-3">
+                            <li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
+                            <li><a href="#"><span class="fa fa-twitter"></span></a></li>
+                            <li><a href="#"><span class="fa fa-linkedin-square"></span></a></li>
+                            <li><a href="#"><span class="fa fa-instagram"></span></a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 team-img">
+                        <img src="images/t2.jpg" class="img-fluid" alt="user-image">
+                    </div>
+                </div>
+                <div class="row mt-lg-5 mt-4">
+                    <div class="col-md-6 team-img">
+                        <img src="images/t3.jpg" class="img-fluid" alt="user-image">
+                    </div>
+                    <div class="col-md-6 team-info">
+                        <h3><span class="sub-tittle">Speaker</span>Seth Doe</h3>
+                        <h4 class="my-3">VIVAMUS ID TEMPOR FELIS. CRAS SAGITTIS MI SIT AMET</h4>
+                        <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                        <ul class="team-icons mt-md-4 mt-3">
+                            <li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
+                            <li><a href="#"><span class="fa fa-twitter"></span></a></li>
+                            <li><a href="#"><span class="fa fa-linkedin-square"></span></a></li>
+                            <li><a href="#"><span class="fa fa-instagram"></span></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row mt-lg-5 mt-4">
+                    <div class="col-md-6 team-info">
+                        <h3><span class="sub-tittle">Speaker</span>Andrea Willson</h3>
+                        <h4 class="my-3">VIVAMUS ID TEMPOR FELIS. CRAS SAGITTIS MI SIT AMET</h4>
+                        <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                        <ul class="team-icons mt-md-4 mt-3">
+                            <li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
+                            <li><a href="#"><span class="fa fa-twitter"></span></a></li>
+                            <li><a href="#"><span class="fa fa-linkedin-square"></span></a></li>
+                            <li><a href="#"><span class="fa fa-instagram"></span></a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 team-img">
+                        <img src="images/t4.jpg" class="img-fluid" alt="user-image">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- //speakers -->
+    <!--/ab -->
+    <section class="about py-lg-5 py-md-5 py-3" id="sponsors">
+        <div class="container">
+            <div class="inner-sec-w3ls py-lg-5 py-3">
+                <div class="row">
+                    <div class="col-lg-6 about-right px-lg-5 px-2 mt-lg-5 mt-2">
+
+                        <h3 class="tittle-w3 text-white"><span class="sub-tittle">About</span>Business Conclave</h3>
+                        <p class="my-4 text-justify">Lorem ipsum dolor sit amet Neque porro quisquam est qui dolorem Lorem int ipsum dolor sit amet when an unknown printer took a galley of type.Vivamus id tempor felis. Cras sagittis mi sit amet malesuada mollis. Mauris porroinit consectetur cursus tortor vel interdum.</p>
+
+                    </div>
+                    <div class="col-lg-6 about-img">
+                        <div class="play text-center"> <a href="#" data-toggle="modal" data-target="#exampleModalCenter3"><i class="fa fa-play" aria-hidden="true"></i></a></div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- //ab -->
+    <!--/-->
+    <!--/speakers -->
+    <section class="banner-bottom-w3ls py-lg-5 py-4">
+        <div class="inner-sec-w3ls py-lg-5 py-4 speak">
+            <h3 class="tittle-w3 text-center"><span class="sub-tittle">Come Join Us!</span>Lorem ipsum dolor sit amet Neque porro quisquam est qui dolorem</h3>
+            <div class="rsvp text-center mt-lg-5 mt-3">
+                <img src="images/mid.jpg" class="img-fluid" alt="user-image">
+                <button type="button" class="btn login-btn text-uppercase mt-md-5 mt-3" data-toggle="modal" data-target="#exampleModalCenter2">
+                        Register Now
+                </button>
+                <ul class="team-icons mt-md-4 mt-3">
+                    <li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
+                    <li><a href="#"><span class="fa fa-twitter"></span></a></li>
+                    <li><a href="#"><span class="fa fa-linkedin-square"></span></a></li>
+                    <li><a href="#"><span class="fa fa-instagram"></span></a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <!-- //speakers -->
+    <!--//-->
+    <div class="footer-top">
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+    <section class="footer pt-lg-5 pt-4 ">
+        <div class="container-fluid p-0 m-0">
+            <div class="inner-sec-w3ls pt-lg-5 pt-4">
+                <h3 class="tittle-w3 text-center"><span class="sub-tittle">Meet top</span> Instagram</h3>
+                <div class="row instagram-posts m-0 mt-lg-5 mt-4">
+                    <!-- instagram posts -->
+                    <div class="col-md-2 col-sm-2 instagram-post-img">
+                        <a href="single.html">
+						<img src="images/t1.jpg" class="img-fluid" alt="">
+					</a>
+                    </div>
+                    <div class="col-md-2 col-sm-2 instagram-post-img">
+                        <a href="single.html">
+						<img src="images/t2.jpg" class="img-fluid" alt="">
+					</a>
+                    </div>
+                    <div class="col-md-2 col-sm-2 instagram-post-img">
+                        <a href="single.html">
+						<img src="images/t3.jpg" class="img-fluid" alt="">
+					</a>
+                    </div>
+                    <div class="col-md-2 col-sm-2 instagram-post-img">
+                        <a href="single.html">
+						<img src="images/t4.jpg" class="img-fluid" alt="">
+					</a>
+                    </div>
+                    <div class="col-md-2 col-sm-2 instagram-post-img">
+                        <a href="single.html">
+						<img src="images/t5.jpg" class="img-fluid" alt="">
+					</a>
+                    </div>
+                    <div class="col-md-2 col-sm-2 instagram-post-img">
+                        <a href="single.html">
+						<img src="images/t6.jpg" class="img-fluid" alt="">
+					</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--/sponsors-->
+    <section class="sponsers py-lg-5 py-md-5 py-3">
+        <div class="container">
+            <div class="inner-sec-w3ls py-lg-5 py-3">
+                <h3 class="tittle-w3 text-center"><span class="sub-tittle">Featured </span>Sponsors</h3>
+                <div class="sponsers-icon text-center mt-lg-5 mt-4">
+                    <ul class="list-unstyled py-md-5 partners-icon row">
+                        <li class="col-md-2">
+                            <i class="fa fa-apple" aria-hidden="true"></i>
+                        </li>
+                        <li class="col-md-2">
+                            <i class="fa fa-bitbucket" aria-hidden="true"></i>
+                        </li>
+                        <li class="col-md-2">
+                            <i class="fa fa-meetup" aria-hidden="true"></i>
+                        </li>
+                        <li class="col-md-2">
+                            <i class="fa fa-slideshare" aria-hidden="true"></i>
+                        </li>
+                        <li class="col-md-2">
+                            <i class="fa fa-renren" aria-hidden="true"></i>
+                        </li>
+                        <li class="col-md-2">
+                            <i class="fa fa-tripadvisor" aria-hidden="true"></i>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- //sponsors -->
+    <!--/footer-->
+    <div class="footer-top">
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+    <footer class="footer">
+        <div class="container-fluid p-lg-5 p-md-3">
+
+            <div class="row py-sm-4 py-3">
+                <div class="col-lg-4 footer-end-grid" data-aos="fade-up">
+                    <h2>
+                        <a href="index.html">
+               Conclave
+                </a>
+                    </h2>
+                    <p class="my-4 text-justify">Maecenas interdum, metus vitae tincidunt porttitor, magna quam egestas sem, ac scelerisque nisl nibh vel lacus. Proin eget gravida odio.</p>
+                    <h3>Follow Us</h3>
+                    <ul class="social-icons text-center d-flex">
+                        <li>
+                            <a href="#">
+                               Facebook
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                Twitter
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                              Google +
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                               Dribble
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="col-lg-2 col-md-4">
+                    <h3>Useful Link</h3>
+                    <ul class="list-footer" data-aos="fade-up">
+                        <li>
+                            <a href="index.html" class="nav-link">
+                                Home
+                            </a>
+                        </li>
+                        <li class="my-2">
+                            <a href="about.html" class="nav-link">
+                               About
+                            </a>
+                        </li>
+                        <li class="my-2">
+                            <a href="blog.html" class="nav-link">
+                               Blog Posts
+                            </a>
+                        </li>
+                        <li class="mb-2">
+                            <a href="gallery.html" class="nav-link">
+                              Gallery
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="col-lg-2  mt-sm-5">
+                    <ul class="list-footer" data-aos="fade-up">
+                        <li>
+                            <a href="#register" data-toggle="modal" data-target="#exampleModalCenter" class="nav-link scroll">
+                                Login
+                            </a>
+                        </li>
+                        <li class="my-2">
+                            <a href="#" data-toggle="modal" data-target="#exampleModalCenter2" class="nav-link">
+                               Register
+                            </a>
+                        </li>
+                        <li class="my-2">
+                            <a href="#" class="nav-link">
+                                License
+                            </a>
+                        </li>
+                        <li>
+                            <a href="contact.html" class="nav-link">
+                                Contact Us
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="subscribe col-lg-4">
+                    <h3>Subscribe Now</h3>
+                    <p class="my-4 text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit sedc dnmo eiusmod tempor incididunt ut labore.</p>
+                    <form action="#" method="post" class="newsletter">
+                        <input class="email" type="email" placeholder="Your email..." required="">
+                        <input class="form-control" type="submit" value="Subscribe">
+                    </form>
+                </div>
+            </div>
+            <hr>
+            <div class="d-flex justify-content-between pt-lg-3  footer-bottom-cpy">
+                <div class="copy-right-w3layouts">
+                    <p>© 2018 Convention. All rights reserved | Design by
+                        <a href="http://w3layouts.com/"> W3layouts </a>
+                    </p>
+                </div>
+                <div class="social-content pb-md-0 pb-4">
+                    <ul class="social-icons text-center d-flex">
+                        <li class="ml-lg-5">
+                            <a href="#" class="reg-in">
+                                Privacy and Policy
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" data-toggle="modal" data-target="#exampleModalCenter2" class="nav-link reg-in two">
+                               Register
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!--//footer-->
+
+    <!--model-forms-->
+    <!--/Login-->
+    <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header text-left">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div class="login px-4 mx-auto mw-100">
+                        <h5 class="text-left mb-4">Login Now</h5>
+                        <form action="#" method="post">
+                            <div class="form-group">
+                                <label class="mb-2">Email address</label>
+                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="" required="">
+                                <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                            </div>
+                            <div class="form-group">
+                                <label class="mb-2">Password</label>
+                                <input type="password" class="form-control" id="exampleInputPassword1" placeholder="" required="">
+                            </div>
+                            <div class="form-check mb-2">
+                                <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                <label class="form-check-label" for="exampleCheck1">Check me out</label>
+                            </div>
+                            <button type="submit" class="btn btn-primary submit mb-4">Sign In</button>
+                            <p class="text-left pb-4">
+                                <a href="#" data-toggle="modal" data-target="#exampleModalCenter2"> Don't have an account?</a>
+                            </p>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!--//Login-->
+    <!--/Register-->
+    <div class="modal fade" id="exampleModalCenter2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header text-left">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="login px-4 mx-auto mw-100">
+                        <h5 class="text-left mb-4">Register Now</h5>
+                        <form action="#" method="post">
+                            <div class="form-group">
+                                <label>First name</label>
+
+                                <input type="text" class="form-control" id="validationDefault01" placeholder="" required="">
+                            </div>
+                            <div class="form-group">
+                                <label>Last name</label>
+                                <input type="text" class="form-control" id="validationDefault02" placeholder="" required="">
+                            </div>
+
+                            <div class="form-group">
+                                <label class="mb-2">Password</label>
+                                <input type="password" class="form-control" id="password1" placeholder="" required="">
+                            </div>
+                            <div class="form-group">
+                                <label>Confirm Password</label>
+                                <input type="password" class="form-control" id="password2" placeholder="" required="">
+                            </div>
+
+                            <button type="submit" class="btn btn-primary submit mb-4">Register</button>
+                            <p class="text-left pb-4">
+                                <a href="#">By clicking Register, I agree to your terms</a>
+                            </p>
+                        </form>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!--//Register-->
+    <!--/video-->
+    <div class="modal fade" id="exampleModalCenter3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header text-left">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="login px-4 mx-auto mw-100">
+                        <h5 class="text-left mb-4">Watch Now</h5>
+                        <iframe src="https://player.vimeo.com/video/102299905" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!--//video-->
+    <script src="js/jquery-2.2.3.min.js"></script>
+    <!-- banner-type-text -->
+    <!-- banner slider -->
+    <script src="js/responsiveslides.min.js"></script>
+    <script>
+        $(function() {
+            $("#slider4").responsiveSlides({
+                auto: true,
+                pager: false,
+                nav: true,
+                speed: 1000,
+                namespace: "callbacks",
+                before: function() {
+                    $('.events').append("<li>before event fired.</li>");
+                },
+                after: function() {
+                    $('.events').append("<li>after event fired.</li>");
+                }
+            });
+        });
+
+    </script>
+    <!-- //banner slider -->
+
+
+    <!-- sticky nav bar-->
+    <script>
+        $(() => {
+
+            //On Scroll Functionality
+            $(window).scroll(() => {
+                var windowTop = $(window).scrollTop();
+                windowTop > 100 ? $('nav').addClass('navShadow') : $('nav').removeClass('navShadow');
+                windowTop > 100 ? $('ul.nav-honey').css('top', '50px') : $('ul.nav-honey').css('top', '160px');
+            });
+
+            //Click Logo To Scroll To Top
+            $('#logo').on('click', () => {
+                $('html,body').animate({
+                    scrollTop: 0
+                }, 500);
+            });
+
+            //Smooth Scrolling Using Navigation Menu
+            $('a[href*="#"]').on('click', function(e) {
+                $('html,body').animate({
+                    scrollTop: $($(this).attr('href')).offset().top - 100
+                }, 500);
+                e.preventDefault();
+            });
+
+            //Toggle Menu
+            $('#menu-toggle').on('click', () => {
+                $('#menu-toggle').toggleClass('closeMenu');
+                $('ul').toggleClass('showMenu');
+
+                $('li').on('click', () => {
+                    $('ul').removeClass('showMenu');
+                    $('#menu-toggle').removeClass('closeMenu');
+                });
+            });
+
+        });
+
+    </script>
+    <!-- //sticky nav bar -->
+    <!-- simpleLightbox -->
+    <!--timeline-->
+    <script>
+        /**********************Scroll Animation "START"************************************/
+        $(document).ready(function() {
+            var $animation_elements = $('.anim');
+            var $window = $(window);
+
+            function check_if_in_view() {
+                var window_height = $window.height();
+                var window_top_position = $window.scrollTop();
+                var window_bottom_position = (window_top_position + window_height);
+
+                $.each($animation_elements, function() {
+                    var $element = $(this);
+                    var element_height = $element.outerHeight();
+                    var element_top_position = $element.offset().top;
+                    var element_bottom_position = (element_top_position + element_height);
+
+                    //check to see if this current container is within viewport
+                    if ((element_bottom_position >= window_top_position) &&
+                        (element_top_position <= window_bottom_position)) {
+                        $element.addClass('animated');
+                    } else {
+                        $element.removeClass('animated');
+                    }
+                });
+            }
+
+            $window.on('scroll resize', check_if_in_view);
+            $window.trigger('scroll');
+        });
+        /**********************Scroll Animation "END"************************************/
+
+        /**********************Change color of center aligned animated content small Circle  "START"************************************/
+        $(document).ready(function() {
+            $(" .debits").hover(function() {
+                $(" .center-right").css("background-color", "#4997cd");
+            }, function() {
+                $(" .center-right").css("background-color", "#fff");
+            });
+        });
+        $(document).ready(function() {
+            $(".credits").hover(function() {
+                $(".center-left").css("background-color", "#4997cd");
+            }, function() {
+                $(".center-left").css("background-color", "#fff");
+            });
+        });
+        /**********************Change color of center aligned animated content small Circle  "END"************************************/
+
+    </script>
+    <!--//timeline-->
+    <script>
+        $(document).ready(function() {
+            $(".dropdown").hover(
+                function() {
+                    $('.dropdown-menu', this).stop(true, true).slideDown("fast");
+                    $(this).toggleClass('open');
+                },
+                function() {
+                    $('.dropdown-menu', this).stop(true, true).slideUp("fast");
+                    $(this).toggleClass('open');
+                }
+            );
+        });
+
+    </script>
+
+    <!--/counter-->
+    <script>
+        (function($) {
+            $.fn.countTo = function(options) {
+                options = options || {};
+
+                return $(this).each(function() {
+                    // set options for current element
+                    var settings = $.extend({}, $.fn.countTo.defaults, {
+                        from: $(this).data('from'),
+                        to: $(this).data('to'),
+                        speed: $(this).data('speed'),
+                        refreshInterval: $(this).data('refresh-interval'),
+                        decimals: $(this).data('decimals')
+                    }, options);
+
+                    // how many times to update the value, and how much to increment the value on each update
+                    var loops = Math.ceil(settings.speed / settings.refreshInterval),
+                        increment = (settings.to - settings.from) / loops;
+
+                    // references & variables that will change with each update
+                    var self = this,
+                        $self = $(this),
+                        loopCount = 0,
+                        value = settings.from,
+                        data = $self.data('countTo') || {};
+
+                    $self.data('countTo', data);
+
+                    // if an existing interval can be found, clear it first
+                    if (data.interval) {
+                        clearInterval(data.interval);
+                    }
+                    data.interval = setInterval(updateTimer, settings.refreshInterval);
+
+                    // initialize the element with the starting value
+                    render(value);
+
+                    function updateTimer() {
+                        value += increment;
+                        loopCount++;
+
+                        render(value);
+
+                        if (typeof(settings.onUpdate) == 'function') {
+                            settings.onUpdate.call(self, value);
+                        }
+
+                        if (loopCount >= loops) {
+                            // remove the interval
+                            $self.removeData('countTo');
+                            clearInterval(data.interval);
+                            value = settings.to;
+
+                            if (typeof(settings.onComplete) == 'function') {
+                                settings.onComplete.call(self, value);
+                            }
+                        }
+                    }
+
+                    function render(value) {
+                        var formattedValue = settings.formatter.call(self, value, settings);
+                        $self.html(formattedValue);
+                    }
+                });
+            };
+            $.fn.countTo.defaults = {
+                from: 0, // the number the element should start at
+                to: 0, // the number the element should end at
+                speed: 1000, // how long it should take to count between the target numbers
+                refreshInterval: 100, // how often the element should be updated
+                decimals: 0, // the number of decimal places to show
+                formatter: formatter, // handler for formatting the value before rendering
+                onUpdate: null, // callback method for every time the element is updated
+                onComplete: null // callback method for when the element finishes updating
+            };
+
+            function formatter(value, settings) {
+                return value.toFixed(settings.decimals);
+            }
+        }(jQuery));
+
+        jQuery(function($) {
+            // custom formatting example
+            $('.count-number').data('countToOptions', {
+                formatter: function(value, options) {
+                    return value.toFixed(options.decimals).replace(/\B(?=(?:\d{3})+(?!\d))/g, ',');
+                }
+            });
+
+            // start all the timers
+            $('.timer').each(count);
+
+            function count(options) {
+                var $this = $(this);
+                options = $.extend({}, options || {}, $this.data('countToOptions') || {});
+                $this.countTo(options);
+            }
+        });
+
+    </script>
+    <!--//counter-->
+    <!--/ start-smoth-scrolling -->
+    <script src="js/move-top.js"></script>
+    <script src="js/easing.js"></script>
+    <script>
+        jQuery(document).ready(function($) {
+            $(".scroll").click(function(event) {
+                event.preventDefault();
+                $('html,body').animate({
+                    scrollTop: $(this.hash).offset().top
+                }, 900);
+            });
+        });
+
+    </script>
+    <script>
+        $(document).ready(function() {
+            /*
+            						var defaults = {
+            							  containerID: 'toTop', // fading element id
+            							containerHoverID: 'toTopHover', // fading element hover id
+            							scrollSpeed: 1200,
+            							easingType: 'linear' 
+            						 };
+            						*/
+
+            $().UItoTop({
+                easingType: 'easeOutQuart'
+            });
+
+        });
+
+    </script>
+    <!--// end-smoth-scrolling -->
+
+    <!-- //js -->
+
+    <script src="js/bootstrap.js"></script>
+
+
+
+
+<a href="#" id="toTop" style="display: none;"><span id="toTopHover"></span>To Top</a><div id="_vdo_ads_player_ai_" style="left: 15px; bottom: -270px;"><div tabindex="-1" class="vdo-js vjs-default-skin vdo_ai_9418181-dimensions vjs-controls-disabled vjs-workinghover vjs-v5 vjs-has-started vjs-playing vjs-user-inactive" id="vdo_ai_9418181" role="region" aria-label="video player"><video id="vdo_ai_9418181_html5_api" class="vjs-tech" tabindex="-1" preload="true" autoplay="" playsinline="playsinline" muted="muted" src="https://s.vdo.ai/sample/11.mp4"></video><div></div><div class="vjs-poster vjs-hidden" tabindex="-1" aria-disabled="false"></div><div class="vjs-text-track-display" aria-live="off" aria-atomic="true"></div><div class="vjs-loading-spinner" dir="ltr"></div><button class="vjs-big-play-button" type="button" aria-live="polite" title="Play Video" aria-disabled="false"><span class="vjs-control-text">Play Video</span></button><div class="vjs-control-bar" dir="ltr" role="group"><button class="vjs-play-control vjs-control vjs-button vjs-playing" type="button" aria-live="polite" title="Pause" aria-disabled="false"><span class="vjs-control-text">Pause</span></button><div class="vjs-volume-menu-button vjs-menu-button vjs-menu-button-inline vjs-control vjs-button vjs-volume-menu-button-horizontal vjs-vol-0" tabindex="0" role="button" aria-live="polite" title="Unmute" aria-disabled="false"><div class="vjs-menu"><div class="vjs-menu-content"><div tabindex="0" class="vjs-volume-bar vjs-slider-bar vjs-slider vjs-slider-horizontal" role="slider" aria-valuenow="100.00" aria-valuemin="0" aria-valuemax="100" aria-label="volume level" aria-valuetext="100.00%"><div class="vjs-volume-level"><span class="vjs-control-text"></span></div></div></div></div><span class="vjs-control-text">Unmute</span></div><div class="vjs-current-time vjs-time-control vjs-control"><div class="vjs-current-time-display" aria-live="off"><span class="vjs-control-text">Current Time</span> 0:28</div></div><div class="vjs-time-control vjs-time-divider"><div><span>/</span></div></div><div class="vjs-duration vjs-time-control vjs-control"><div class="vjs-duration-display" aria-live="off"><span class="vjs-control-text">Duration Time</span> 0:31</div></div><div class="vjs-progress-control vjs-control"><div tabindex="0" class="vjs-progress-holder vjs-slider vjs-slider-horizontal" role="slider" aria-valuenow="90.14" aria-valuemin="0" aria-valuemax="100" aria-label="progress bar" aria-valuetext="0:28"><div class="vjs-load-progress" style="width: 97.5158%;"><span class="vjs-control-text"><span>Loaded</span>: 0%</span><div style="left: 0%; width: 100%;"></div></div><div class="vjs-mouse-display" data-current-time="0:00" style="left: 0px;"></div><div class="vjs-play-progress vjs-slider-bar" data-current-time="0:28" style="width: 90.14%;"><span class="vjs-control-text"><span>Progress</span>: 0%</span></div></div></div><div class="vjs-live-control vjs-control vjs-hidden"><div class="vjs-live-display" aria-live="off"><span class="vjs-control-text">Stream Type</span>LIVE</div></div><div class="vjs-remaining-time vjs-time-control vjs-control"><div class="vjs-remaining-time-display" aria-live="off"><span class="vjs-control-text">Remaining Time</span> -0:03</div></div><div class="vjs-custom-control-spacer vjs-spacer ">&nbsp;</div><div class="vjs-playback-rate vjs-menu-button vjs-menu-button-popup vjs-control vjs-button vjs-hidden" tabindex="0" role="menuitem" aria-live="polite" title="Playback Rate" aria-disabled="false" aria-expanded="false" aria-haspopup="true"><div class="vjs-menu" role="presentation"><ul class="vjs-menu-content" role="menu"></ul></div><span class="vjs-control-text">Playback Rate</span><div class="vjs-playback-rate-value">1</div></div><div class="vjs-chapters-button vjs-menu-button vjs-menu-button-popup vjs-control vjs-button vjs-hidden" tabindex="0" role="menuitem" aria-live="polite" title="Chapters" aria-disabled="false" aria-expanded="false" aria-haspopup="true" aria-label="Chapters Menu"><div class="vjs-menu" role="presentation"><ul class="vjs-menu-content" role="menu"><li class="vjs-menu-title" tabindex="-1">Chapters</li></ul></div><span class="vjs-control-text">Chapters</span></div><div class="vjs-descriptions-button vjs-menu-button vjs-menu-button-popup vjs-control vjs-button vjs-hidden" tabindex="0" role="menuitem" aria-live="polite" title="Descriptions" aria-disabled="false" aria-expanded="false" aria-haspopup="true" aria-label="Descriptions Menu"><div class="vjs-menu" role="presentation"><ul class="vjs-menu-content" role="menu"><li class="vjs-menu-item vjs-selected" tabindex="-1" role="menuitemcheckbox" aria-live="polite" aria-disabled="false" aria-checked="true">descriptions off<span class="vjs-control-text">, selected</span></li></ul></div><span class="vjs-control-text">Descriptions</span></div><div class="vjs-subtitles-button vjs-menu-button vjs-menu-button-popup vjs-control vjs-button vjs-hidden" tabindex="0" role="menuitem" aria-live="polite" title="Subtitles" aria-disabled="false" aria-expanded="false" aria-haspopup="true" aria-label="Subtitles Menu"><div class="vjs-menu" role="presentation"><ul class="vjs-menu-content" role="menu"><li class="vjs-menu-item vjs-selected" tabindex="-1" role="menuitemcheckbox" aria-live="polite" aria-disabled="false" aria-checked="true">subtitles off<span class="vjs-control-text">, selected</span></li></ul></div><span class="vjs-control-text">Subtitles</span></div><div class="vjs-captions-button vjs-menu-button vjs-menu-button-popup vjs-control vjs-button vjs-hidden" tabindex="0" role="menuitem" aria-live="polite" title="Captions" aria-disabled="false" aria-expanded="false" aria-haspopup="true" aria-label="Captions Menu"><div class="vjs-menu" role="presentation"><ul class="vjs-menu-content" role="menu"><li class="vjs-menu-item vjs-texttrack-settings" tabindex="-1" role="menuitem" aria-live="polite" aria-disabled="false">captions settings<span class="vjs-control-text">, opens captions settings dialog</span></li><li class="vjs-menu-item vjs-selected" tabindex="-1" role="menuitemcheckbox" aria-live="polite" aria-disabled="false" aria-checked="true">captions off<span class="vjs-control-text">, selected</span></li></ul></div><span class="vjs-control-text">Captions</span></div><div class="vjs-audio-button vjs-menu-button vjs-menu-button-popup vjs-control vjs-button vjs-hidden" tabindex="0" role="menuitem" aria-live="polite" title="Audio Track" aria-disabled="false" aria-expanded="false" aria-haspopup="true" aria-label="Audio Menu"><div class="vjs-menu" role="presentation"><ul class="vjs-menu-content" role="menu"></ul></div><span class="vjs-control-text">Audio Track</span></div><button class="vjs-fullscreen-control vjs-control vjs-button" type="button" aria-live="polite" title="Fullscreen" aria-disabled="false"><span class="vjs-control-text">Fullscreen</span></button></div><div class="vjs-error-display vjs-modal-dialog vjs-hidden " tabindex="-1" aria-describedby="vdo_ai_9418181_component_698_description" aria-hidden="true" aria-label="Modal Window" role="dialog"><p class="vjs-modal-dialog-description vjs-offscreen" id="vdo_ai_9418181_component_698_description">This is a modal window.</p><div class="vjs-modal-dialog-content" role="document"></div></div><div class="vjs-caption-settings vjs-modal-overlay vjs-hidden" tabindex="-1" role="dialog" aria-labelledby="TTsettingsDialogLabel-vdo_ai_9418181_component_702" aria-describedby="TTsettingsDialogDescription-vdo_ai_9418181_component_702"><div role="document"><div class="vjs-control-text" id="TTsettingsDialogLabel-vdo_ai_9418181_component_702" aria-level="1" role="heading">Caption Settings Dialog</div><div class="vjs-control-text" id="TTsettingsDialogDescription-vdo_ai_9418181_component_702">Beginning of dialog window. Escape will cancel and close the window.</div><div class="vjs-tracksettings"><div class="vjs-tracksettings-colors"><fieldset class="vjs-fg-color vjs-tracksetting"><legend>Text</legend><label class="vjs-label" for="captions-foreground-color-vdo_ai_9418181_component_702">Color</label><select id="captions-foreground-color-vdo_ai_9418181_component_702"><option value="#FFF">White</option><option value="#000">Black</option><option value="#F00">Red</option><option value="#0F0">Green</option><option value="#00F">Blue</option><option value="#FF0">Yellow</option><option value="#F0F">Magenta</option><option value="#0FF">Cyan</option></select><span class="vjs-text-opacity vjs-opacity"><label class="vjs-label" for="captions-foreground-opacity-vdo_ai_9418181_component_702">Transparency</label><select id="captions-foreground-opacity-vdo_ai_9418181_component_702"><option value="1">Opaque</option><option value="0.5">Semi-Transparent</option></select></span></fieldset><fieldset class="vjs-bg-color vjs-tracksetting"><legend>Background</legend><label class="vjs-label" for="captions-background-color-vdo_ai_9418181_component_702">Color</label><select id="captions-background-color-vdo_ai_9418181_component_702"><option value="#000">Black</option><option value="#FFF">White</option><option value="#F00">Red</option><option value="#0F0">Green</option><option value="#00F">Blue</option><option value="#FF0">Yellow</option><option value="#F0F">Magenta</option><option value="#0FF">Cyan</option></select><span class="vjs-bg-opacity vjs-opacity"><label class="vjs-label" for="captions-background-opacity-vdo_ai_9418181_component_702">Transparency</label><select id="captions-background-opacity-vdo_ai_9418181_component_702"><option value="1">Opaque</option><option value="0.5">Semi-Transparent</option><option value="0">Transparent</option></select></span></fieldset><fieldset class="vjs-window-color vjs-tracksetting"><legend>Window</legend><label class="vjs-label" for="captions-window-color-vdo_ai_9418181_component_702">Color</label><select id="captions-window-color-vdo_ai_9418181_component_702"><option value="#000">Black</option><option value="#FFF">White</option><option value="#F00">Red</option><option value="#0F0">Green</option><option value="#00F">Blue</option><option value="#FF0">Yellow</option><option value="#F0F">Magenta</option><option value="#0FF">Cyan</option></select><span class="vjs-window-opacity vjs-opacity"><label class="vjs-label" for="captions-window-opacity-vdo_ai_9418181_component_702">Transparency</label><select id="captions-window-opacity-vdo_ai_9418181_component_702"><option value="0">Transparent</option><option value="0.5">Semi-Transparent</option><option value="1">Opaque</option></select></span></fieldset></div><div class="vjs-tracksettings-font"><div class="vjs-font-percent vjs-tracksetting"><label class="vjs-label" for="captions-font-size-vdo_ai_9418181_component_702">Font Size</label><select id="captions-font-size-vdo_ai_9418181_component_702"><option value="0.50">50%</option><option value="0.75">75%</option><option value="1.00">100%</option><option value="1.25">125%</option><option value="1.50">150%</option><option value="1.75">175%</option><option value="2.00">200%</option><option value="3.00">300%</option><option value="4.00">400%</option></select></div><div class="vjs-edge-style vjs-tracksetting"><label class="vjs-label" for="vdo_ai_9418181_component_702">Text Edge Style</label><select id="vdo_ai_9418181_component_702"><option value="none">None</option><option value="raised">Raised</option><option value="depressed">Depressed</option><option value="uniform">Uniform</option><option value="dropshadow">Dropshadow</option></select></div><div class="vjs-font-family vjs-tracksetting"><label class="vjs-label" for="captions-font-family-vdo_ai_9418181_component_702">Font Family</label><select id="captions-font-family-vdo_ai_9418181_component_702"><option value="proportionalSansSerif">Proportional Sans-Serif</option><option value="monospaceSansSerif">Monospace Sans-Serif</option><option value="proportionalSerif">Proportional Serif</option><option value="monospaceSerif">Monospace Serif</option><option value="casual">Casual</option><option value="script">Script</option><option value="small-caps">Small Caps</option></select></div></div><div class="vjs-tracksettings-controls"><button class="vjs-default-button">Defaults</button><button class="vjs-done-button">Done</button></div></div></div></div><div id="vdo_ai_9418181_ima-ad-container" class="vdo_ai_9418181_ima-ad-container ima-ad-container" style="position: absolute; z-index: 1111; display: none;"><div style="position: absolute; width: 419px; height: 236px;"><div style="display: none;"><video title="Advertisement" webkit-playsinline="true" playsinline="true" style="background-color: rgb(0, 0, 0); position: absolute; width: 100%; height: 100%; left: 0px; top: 0px;"></video><div style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px;"></div></div><div style="display: none;"><video title="Advertisement" webkit-playsinline="true" playsinline="true" style="background-color: rgb(0, 0, 0); position: absolute; width: 100%; height: 100%; left: 0px; top: 0px;"></video><div style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px;"></div></div><iframe src="https://imasdk.googleapis.com/js/core/bridge3.249.0_en.html#goog_2137304757" allowfullscreen="" allow="autoplay" style="border: 0px; opacity: 1; margin: 0px; padding: 0px; position: relative;" width="419" height="236"></iframe></div><div id="vdo_ai_9418181_ima-controls-div" class="vdo_ai_9418181_ima-controls-div ima-controls-div" style="width: 100%; display: none;"><div id="vdo_ai_9418181_ima-countdown-div" class="vdo_ai_9418181_ima-countdown-div ima-countdown-div" style="display: block;"></div><div id="vdo_ai_9418181_ima-seek-bar-div" class="vdo_ai_9418181_ima-seek-bar-div ima-seek-bar-div" style="width: 100%;"><div id="vdo_ai_9418181_ima-progress-div" class="vdo_ai_9418181_ima-progress-div ima-progress-div"></div></div><div id="vdo_ai_9418181_ima-play-pause-div" class="vdo_ai_9418181_ima-play-pause-div ima-play-pause-div ima-playing"></div><div id="vdo_ai_9418181_ima-mute-div" class="vdo_ai_9418181_ima-mute-div ima-mute-div ima-muted"></div><div id="vdo_ai_9418181_ima-slider-div" class="vdo_ai_9418181_ima-slider-div ima-slider-div"><div id="vdo_ai_9418181_ima-slider-level-div" class="vdo_ai_9418181_ima-slider-level-div ima-slider-level-div" style="width: 0%;"></div></div><div id="vdo_ai_9418181_ima-fullscreen-div" class="vdo_ai_9418181_ima-fullscreen-div ima-fullscreen-div ima-non-fullscreen"></div></div></div><img src="https://vdo.ai/cross.svg" class="cross"></div></div><script id="_vdo_ads_deps_5654_" src="https://vdo.ai/core/dependencies_bs/vdo.min.js"></script><script id="_vdo_ads_sdk_5654_" src="https://imasdk.googleapis.com/js/sdkloader/ima3.js"></script><script src="https://vdo.ai/core/w3layouts/adframe.js?k=4er" id="_vdo_ads_frame_5654_"></script></body></html>
