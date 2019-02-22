@@ -1,0 +1,83 @@
+/*
+Theme Name: Nombre del Tema
+Theme URI: http://www.moyart.com.mx/
+Author: MoyArt
+Author URI: http://www.moyart.com.mx/
+Description: Templete generado para el sitio...
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: fotos, responsive, MoyArt
+Text Domain: moyart.com.mx
+*/
+
+/*///////////////////////// Estilos generales del documento /////////////////////////*/
+@font-face {
+    font-family: "MuseoSans100";
+    src: url('fonts/MuseoSans_100.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* Cambia el color de la selección dentro de los navegadores en los navegadores que lo soportan */
+::-moz-selection{
+	background: 				#393939; 
+	color: 					    #fff; 
+	text-shadow: 			    none;
+}
+::selection{
+	background: 				#393939; 
+	color: 					    #fff; 
+	text-shadow: 			    none;
+}
+
+body{
+    width:                      100%;
+	font-size:                  1em;
+	font-family:			    "MuseoSans100", arial, sans-serif;
+	color:					    #000;
+}
+h1, h2, h3, h4{
+	font-family:				'MuseoSans100';
+	font-weight:				bold;
+}
+
+a{
+ color:                         #000;   
+}
+
+select{
+    height:                     40px;
+    padding:                    5px 10px;
+    padding-right:              45px;
+    margin:                     40px 28px;
+    background:                 url(images/fondo-select.jpg) right no-repeat;
+    border:                     1px #000 solid;
+    border-radius:              0;
+    -webkit-border-radius:      0;
+    -ms-border-radius:          0;
+    -moz-border-radius:         0;
+    -o-border-radius:           0;
+    -webkit-appearance:         none;
+    font-size:                  14px;
+   
+}
+
+.floatL{
+	float:					left;
+}
+
+.floatR{
+	float:					right;
+}
+
+.clear{
+    clear:                  both;   
+}
+
+.wrapper{
+    width:                  1024px;
+    display:                block;
+    margin:                 0 auto;
+}

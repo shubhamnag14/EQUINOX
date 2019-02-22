@@ -1,0 +1,20 @@
+{
+  "name": "MoyArtTempleteWordpress",
+  "homepage": "https://github.com/MoyArt/sitioBase",
+  "authors": [
+    "MoyArt <moyart@moyart.com.mx>"
+  ],
+  "description": "Paquete configurado para crear templetes para Wordpress",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "MoyArt",
+    "Wordpress",
+    "GIT",
+    "Templete",
+    "Free",
+    "Startup",
+    "WordpressReady"
+  ],
+  "license": "MIT"
+}
